@@ -12,7 +12,7 @@
 	<artifactId>santander-dev-week-2023</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>santander-dev-week-2023</name>
-	<description>RESTful API Santander Dev Week 2023</description>
+	<description>Java RESTful API criada para a Santander Dev Week 2023</description>
 	<url/>
 	<licenses>
 		<license/>
