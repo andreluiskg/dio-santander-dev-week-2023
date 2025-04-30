@@ -35,8 +35,15 @@ classDiagram
     .String description
   }
 
+<<<<<<< HEAD
   User "1" *-- "1" Account
   User "1" *-- "N" Feature
   User "1" *-- "1" Card
   User "1" *-- "N" News
+=======
+  User --> Account
+  User --> Feature
+  User --> Card
+  User --> News
+>>>>>>> dffa6a6f3792539b241efc9255235c1888c6e5dc
 ```
